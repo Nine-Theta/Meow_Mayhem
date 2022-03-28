@@ -3,12 +3,12 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Components/SceneComponent.h"
+#include "Components/ActorComponent.h"
 #include "NewActorComponent.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class IMTS_API UNewActorComponent : public USceneComponent
+class IMTS_API UNewActorComponent : public UActorComponent
 {
 	GENERATED_BODY()
 
