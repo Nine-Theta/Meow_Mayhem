@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3e57b36a-676f-4e32-9cb4-17a91b62d72c}">
+		<property name="assetPath">
+			<value>05_fast01.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.885714285714286</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c683b60c-474f-415b-837c-04f8e0773895}</destination>
+		</relationship>
+	</object>
+</objects>
