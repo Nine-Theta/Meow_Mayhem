@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d06455f9-6b23-4c2d-81d4-c8c57635a694}">
+		<property name="assetPath">
+			<value>zapsplat_impacts_punch_body_fast_swipe_whoosh_into_punch_impact_clothing_005_72433.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.57599999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c683b60c-474f-415b-837c-04f8e0773895}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c60d53a3-d4cb-45c7-8c5f-bdc1418ca88e}">
+		<property name="assetPath">
+			<value>impactPlate_medium_003.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.65367346938775506</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c683b60c-474f-415b-837c-04f8e0773895}</destination>
+		</relationship>
+	</object>
+</objects>
