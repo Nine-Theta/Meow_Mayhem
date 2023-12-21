@@ -328,3 +328,20 @@ RELEASE_MSG
 !Plugins/*/*/*/*/*/*/*/*/*
 !Plugins/*/*/*/*/*/*/*/*/*/*
 !Plugins/*/*/*/*/*/*/*/*/*/*/*
+
+#Excluding Project Builds
+/[Bb]uild/
+/[Bb]uilds/
+*.zip
+*.apk
+
+#FMOD Generated Files
+/Content/FMOD/Banks
+/Content/FMOD/Buses
+/Content/FMOD/Events
+/Content/FMOD/PrivateIntegrationData
+/Content/FMOD/Reverbs
+/Content/FMOD/Snapshots
+/Plugins/FMODStudio/Docs
+/Plugins/FMODStudio/Intermediate
+/Plugins/FMODStudio/Resources
