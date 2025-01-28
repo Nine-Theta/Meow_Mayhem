@@ -29,5 +29,10 @@ Their stipulations for the project where to focus on fun, engaging, and innovati
 I was in charge of figuring out the movement mechanics and player interaction with the world.
 I spend most of the project's duration working on designing and refining the movement, and creating the combat on the player's side.
 
-## Links
-[Promo video](https://youtu.be/lQrWTghgwt0)
+## Video
+
+
+https://github.com/user-attachments/assets/36835615-98de-4578-b9af-c63d79af5d69
+
+
+<!--- [Promo video](https://youtu.be/lQrWTghgwt0) -->
