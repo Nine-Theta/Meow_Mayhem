@@ -22,7 +22,7 @@ Their stipulations for the project where to focus on fun, engaging, and innovati
 
 #### Programming
 - [Ezra Dusselaar](https://www.linkedin.com/in/ezra-dusselaar), AI and visual effects
-- [David Heetebrij](https://www.linkedin.com/in/t-d-heetebrij-b329a6297), Combat and player mechanics
+- [Eris Heetebrij](https://www.linkedin.com/in/t-d-heetebrij-b329a6297), Combat and player mechanics
 
 ## Personal contributions
 
